@@ -1,0 +1,102 @@
+body {
+    background-color: #1E3C40;
+}
+
+.jumbotron {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    margin-bottom: 0;
+    background-color: #B4D2D9;
+}
+
+@media (min-width: 768px) {
+    .jumbotron {
+        padding-top: 5rem;
+        padding-bottom: 5rem;
+    }
+}
+
+.jumbotron p:last-child {
+    margin-bottom: 0;
+}
+
+.jumbotron h1 {
+    font-weight: 300;
+}
+
+.jumbotron .container {
+    max-width: 40rem;
+}
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+    }
+}
+
+.overlay {
+    display: none;
+}
+
+.btn-secondary {
+    padding-left: 2rem;
+    padding-right: 2rem;
+    color: #fff;
+    background-color: #1E3C40;
+    border-color: #698C8C;
+}
+
+.btn-secondary:hover,
+.btn-secondary:focus,
+.btn-secondary:active,
+.btn-secondary.active,
+.open>.dropdown-toggle.btn-secondary {
+    background-color: #1E3C40 !important;
+    border-color: #698C8C !important;
+}
+
+.card {
+    background-color: #B4D2D9;
+}
+
+#container-form {
+    max-width: 900px;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+
+#form-sheet {
+    padding: 3rem;
+}
+
+
+/* Color Theme Swatches in Hex */
+
+.Healthcare-and-medicine.-Medical-and-technology.-Doctor-working-on-digital-tablet-on-hospital-background-1-hex {
+    color: #B4D2D9;
+}
+
+.Healthcare-and-medicine.-Medical-and-technology.-Doctor-working-on-digital-tablet-on-hospital-background-2-hex {
+    color: #102426;
+}
+
+.Healthcare-and-medicine.-Medical-and-technology.-Doctor-working-on-digital-tablet-on-hospital-background-3-hex {
+    color: #1E3C40;
+}
+
+.Healthcare-and-medicine.-Medical-and-technology.-Doctor-working-on-digital-tablet-on-hospital-background-4-hex {
+    color: #698C8C;
+}
+
+.Healthcare-and-medicine.-Medical-and-technology.-Doctor-working-on-digital-tablet-on-hospital-background-5-hex {
+    color: #F2F2F0;
+}
